@@ -1,7 +1,8 @@
 # Hospital_dashboard
 Power BI dashboard analyzing hospital data including patients,revenue,and departments
 
-Project Overview 
+1.Project Overview 
+
 The hospital performance dashboard is an interactive power BI solution developed to
 analyze hospital operations,patient trends, and revenue performace.
 The dataset for this project was sourced from Kaggle (public hospital management dataset)
@@ -11,7 +12,8 @@ This dashboard enables hospital management to monitor operational performance, i
 opportunities, and support data-driven dacision-making.
 
 
-Business Objective
+2.Business Objective
+
 The main objective of this project is to:
 
 1.Monitor hospital performance in real-time
@@ -21,7 +23,7 @@ The main objective of this project is to:
 5.Support management in strategic planning and resource allocation
 
 
-KPIs
+3.KPIs
 The dashboard tracks the following kpis:
 1. Total patients
 2. Total revenue
@@ -29,12 +31,12 @@ The dashboard tracks the following kpis:
 4. Daily/monthly admission trends
 5. city-wise patient distribution
 
-Tools & Technologies used
+4.Tools & Technologies used
 1. power BI (data visualization & Dashboard design)
 2. Excel Dataset
 3. Data modeling & DAX
 
-Skills Demonstrated
+5.Skills Demonstrated
 1.Data cleaning
 2.Data modeling
 3.KPI design
@@ -42,7 +44,7 @@ Skills Demonstrated
 5.Dashboard UI Design
 6.Analytical Thinking
 
-Data Source
+6.Data Source
 1.dataset : Hospital management dataset
 2.source : Kaggle
 3.format : Excel
